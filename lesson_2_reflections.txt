@@ -16,6 +16,4 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges manually?
 
-
-
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
